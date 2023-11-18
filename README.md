@@ -1,6 +1,6 @@
-# wormOR
+# w.O.R.m
 Instructions for constructing and using an apparatus to aid in microbial inoculation experiments of Galleria mellonella (Wax worm)
-wormOR = worm Operating Room
+w.O.R.m = waxworm Operating Room manipulator
 
 ## Material List
 | Item | cost | link |
