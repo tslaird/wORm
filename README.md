@@ -27,4 +27,7 @@ w.O.R.m = waxworm Operating Room manipulator
 ![](images/79A9FF1A-C7FF-46C1-A594-667BF15BD545.jpeg)
 12) Turn the hex bolt on the coupling nut so that an appropriate amount of liquid is injected into the Wax worm. The magnifying glass can be used to determine the volume dispensed by the plunger. Typical experiments call for 10 to 20 uL of liquid which corresponds to two incremental markings on the 100 cc syringe. (1 cc = 1 mL and 1 mL / 100 units = 10 uL)
 13) Once the injection is complete, carefully move the Wax worm off of the needle using the flexible arm  of the alligator clip as a guide. Use the plunger of the holding syringe to eject the Wax worm from the barrel of the syringe.
-14) Continue injecting Wax worms as needed. If the liquid volume on the inoculating syringe gets low, you can carefully disassemble the coupling nut component, refil the syringe, and reassemble the components as in steps 5-8
+14) Continue injecting Wax worms as needed. If the liquid volume on the inoculating syringe gets low, you can carefully disassemble the coupling nut component, refill the syringe, and reassemble the components as in steps 5-8
+
+
+![](images/wORm_setup.jpeg)
