@@ -30,4 +30,4 @@ w.O.R.m = waxworm Operating Room manipulator
 14) Continue injecting Wax worms as needed. If the liquid volume on the inoculating syringe gets low, you can carefully disassemble the coupling nut component, refill the syringe, and reassemble the components as in steps 5-8
 
 
-![](images/wORm_setup.jpeg)
+![](images/wORm_setup.png)
