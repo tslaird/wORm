@@ -32,6 +32,6 @@ w.O.R.m = waxworm Operating Room manipulator
 ![](images/wORm_setup.png)
 
 
-## Potential Improvements:
+## Potential Improvements
 
 The hex bolt is manually advanced in this setup. However, this process could perhaps be automated using a stepper motor. The motor could be hooked up to an Arduino that could control the rotation by a button push. The rotation amount could be calibrated to the desired inoculation amount to be dispensed from the syringe (10 -20 uL). Another alternative is connecting a socket wrench to the hex bolt. In this instance, you would only turn the socket component while it is attached to the wrench. As the socket is rotated, it clicks due to the ratchet mechanism. The desired volume to be dispensed could be calibrated to the number of clicks as the socket turns. Both of these advancements would limit the need to look and track the volume being dispensed from the syringe which would help prevent parallax errors.
