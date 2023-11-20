@@ -8,7 +8,7 @@ w.O.R.m = waxworm Operating Room manipulator
 | Magnetic Helping Hands | $54.99 | https://www.amazon.com/dp/B09B73XL33 |
 | 1cc Insulin Syringe, U-100 29G x 1/2" (EXEL International) | $30.58 /100 syringes | https://www.thomassci.com/Laboratory-Supplies/General-Purpose-Syringes/_/Insulin-Syringes1|
 | Ring magnets (Magnet Source .118 in. L X .69 in. W 0.39 lb. pull) |  $5.39 / 6 magnets | https://www.acehardware.com/departments/tools/hand-tools/magnets/2114544 |
-| 1/2 inch Hex bolt |    a few dollars   |   found at many hardware stores     | 
+| 1/2 inch diameter x 1 inch length hex bolt |    a few dollars   |   found at many hardware stores     | 
 | 1/2 inch Coupling nut | a few dollars    | found at many hardware stores     | 
 
 ## Setup Instructions
