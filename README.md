@@ -2,6 +2,16 @@
 Instructions for constructing and using an apparatus to aid in microbial inoculation experiments of Galleria mellonella (Wax worm)
 w.O.R.m = waxworm Operating Room manipulator
 
+## Background
+
+Waxworms can be a model system for bacterial and fungal infectious diseases. They have a homologous innate immune system to vertebrates, are relatively cheap, can be reared and tested in large numbers, and at 37 degrees C. Furthermore, they do not require IACUC approval. However, they are small and wiggly and can be difficult to inject.
+
+Other labs have developed devices for better administering inoculum and/or treatments to waxworms. For instance, see the following papers:
+* https://www.frontiersin.org/articles/10.3389/fcimb.2017.00099/full
+* https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230767
+
+However, those devices and setups have their drawbacks as well. Thus, I decided to construct a new device that I think better meets the needs for waxworm inoculations. It utilizes a soldering station for easy positioning of the waxworms and also incorporates a manual syringe pump apparatus for accurate solution delivery. The device utilizes disposable insulin syringes and contains hard surfaces that can be easily sterilized when working with pathogenic organisms. The list of materials and setup instructions are detailed below along with potential improvements that can be made to the device. 
+
 ## Material List
 | Item | cost | link |
 | ------------------|-----|-----------------|
